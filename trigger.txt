@@ -1,1 +1,1 @@
-redis:7.4 registry.cn-shanghai.aliyuncs.com/xiefantasy/redis:7.4
+nginx:latest registry.cn-shanghai.aliyuncs.com/xiefantasy/nginx:latest
