@@ -1,1 +1,1 @@
-nginx:latest registry.cn-shanghai.aliyuncs.com/xiefantasy/nginx:latest
+python:3.13.0-slim registry.cn-shanghai.aliyuncs.com/xiefantasy/python:3.13.0-slim
