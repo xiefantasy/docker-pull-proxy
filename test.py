@@ -9,3 +9,4 @@ python:3.13.0-slim registry.cn-shanghai.aliyuncs.com/xiefantasy/python:3.13.0-sl
 swarmpit/install:1.9 registry.cn-shanghai.aliyuncs.com/xiefantasy/swarmpit-install:1.9
 swarmpit/swarmpit:latest registry.cn-shanghai.aliyuncs.com/xiefantasy/swarmpit:latest
 couchdb:2.3.0 registry.cn-shanghai.aliyuncs.com/xiefantasy/couchdb:2.3.0
+influxdb:1.8 registry.cn-shanghai.aliyuncs.com/xiefantasy/influxdb:1.8
