@@ -1,1 +1,1 @@
-swarmpit/swarmpit:latest registry.cn-shanghai.aliyuncs.com/xiefantasy/swarmpit:latest
+couchdb:2.3.0 registry.cn-shanghai.aliyuncs.com/xiefantasy/couchdb:2.3.0
