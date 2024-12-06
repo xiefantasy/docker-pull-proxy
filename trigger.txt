@@ -1,1 +1,1 @@
-influxdb:1.8 registry.cn-shanghai.aliyuncs.com/xiefantasy/influxdb:1.8
+swarmpit/agent:latest registry.cn-shanghai.aliyuncs.com/xiefantasy/swarmpit-agent:latest

@@ -10,3 +10,4 @@ swarmpit/install:1.9 registry.cn-shanghai.aliyuncs.com/xiefantasy/swarmpit-insta
 swarmpit/swarmpit:latest registry.cn-shanghai.aliyuncs.com/xiefantasy/swarmpit:latest
 couchdb:2.3.0 registry.cn-shanghai.aliyuncs.com/xiefantasy/couchdb:2.3.0
 influxdb:1.8 registry.cn-shanghai.aliyuncs.com/xiefantasy/influxdb:1.8
+swarmpit/agent:latest registry.cn-shanghai.aliyuncs.com/xiefantasy/swarmpit-agent:latest
