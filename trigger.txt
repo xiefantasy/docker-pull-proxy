@@ -1,1 +1,1 @@
-swarmpit/install:1.9 registry.cn-shanghai.aliyuncs.com/xiefantasy/swarmpit-install:1.9
+swarmpit/swarmpit:latest registry.cn-shanghai.aliyuncs.com/xiefantasy/swarmpit:latest

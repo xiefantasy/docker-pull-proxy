@@ -7,3 +7,4 @@ jenkins/jenkins:latest registry.cn-hongkong.aliyuncs.com/xiefantasy/jenkins:late
 python:3.12.2-slim registry.cn-shanghai.aliyuncs.com/xiefantasy/python:3.12.2-slim
 python:3.13.0-slim registry.cn-shanghai.aliyuncs.com/xiefantasy/python:3.13.0-slim
 swarmpit/install:1.9 registry.cn-shanghai.aliyuncs.com/xiefantasy/swarmpit-install:1.9
+swarmpit/swarmpit:latest registry.cn-shanghai.aliyuncs.com/xiefantasy/swarmpit:latest
