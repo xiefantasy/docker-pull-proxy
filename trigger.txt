@@ -1,1 +1,1 @@
-swarmpit/agent:latest registry.cn-shanghai.aliyuncs.com/xiefantasy/swarmpit-agent:latest
+registry:2 registry.cn-shanghai.aliyuncs.com/xiefantasy/registry:2
