@@ -12,3 +12,4 @@ couchdb:2.3.0 registry.cn-shanghai.aliyuncs.com/xiefantasy/couchdb:2.3.0
 influxdb:1.8 registry.cn-shanghai.aliyuncs.com/xiefantasy/influxdb:1.8
 swarmpit/agent:latest registry.cn-shanghai.aliyuncs.com/xiefantasy/swarmpit-agent:latest
 registry:2 registry.cn-shanghai.aliyuncs.com/xiefantasy/registry:2
+caddy:2.9-alpine registry.cn-shanghai.aliyuncs.com/xiefantasy/caddy:2.9-alpine
