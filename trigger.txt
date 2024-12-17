@@ -1,1 +1,1 @@
-caddy:2.9-alpine registry.cn-shanghai.aliyuncs.com/xiefantasy/caddy:2.9-alpine
+python:3.13.1-slim registry.cn-shanghai.aliyuncs.com/xiefantasy/python:3.13.1-slim
