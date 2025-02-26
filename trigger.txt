@@ -1,1 +1,1 @@
-python:3.13.1-slim registry.cn-shanghai.aliyuncs.com/xiefantasy/python:3.13.1-slim
+python:3.13.2-slim registry.cn-shanghai.aliyuncs.com/xiefantasy/python:3.13.2-slim
