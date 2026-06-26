@@ -16,3 +16,4 @@ caddy:2.9-alpine registry.cn-shanghai.aliyuncs.com/xiefantasy/caddy:2.9-alpine
 python:3.14.0-slim registry.cn-shanghai.aliyuncs.com/xiefantasy/python:3.14.0-slim
 python:3.14.2-slim registry.cn-shanghai.aliyuncs.com/xiefantasy/python:3.14.2-slim
 nginx:latest registry.cn-shanghai.aliyuncs.com/xiefantasy/nginx:latest
+rust:1.96-slim-bookworm registry.cn-shanghai.aliyuncs.com/xiefantasy/rust:1.96-slim-bookworm

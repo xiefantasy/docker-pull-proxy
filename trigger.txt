@@ -1,1 +1,1 @@
-python:3.14.5-slim registry.cn-shanghai.aliyuncs.com/xiefantasy/python:3.14.5-slim
+rust:1.96-slim-bookworm registry.cn-shanghai.aliyuncs.com/xiefantasy/rust:1.96-slim-bookworm
