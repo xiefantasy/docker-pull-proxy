@@ -1,1 +1,1 @@
-debian:bookworm-slim registry.cn-shanghai.aliyuncs.com/xiefantasy/debian:bookworm-slim
+python:3.14.6-slim registry.cn-shanghai.aliyuncs.com/xiefantasy/python:3.14.6-slim
