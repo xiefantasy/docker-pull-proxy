@@ -18,3 +18,4 @@ python:3.14.2-slim registry.cn-shanghai.aliyuncs.com/xiefantasy/python:3.14.2-sl
 nginx:latest registry.cn-shanghai.aliyuncs.com/xiefantasy/nginx:latest
 rust:1.96-slim-bookworm registry.cn-shanghai.aliyuncs.com/xiefantasy/rust:1.96-slim-bookworm
 debian:bookworm-slim registry.cn-shanghai.aliyuncs.com/xiefantasy/debian:bookworm-slim
+python:3.15.0-slim registry.cn-shanghai.aliyuncs.com/xiefantasy/python:3.15.0-slim
