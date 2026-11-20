@@ -1,1 +1,1 @@
-rust:1.100-slim-bookworm registry.cn-shanghai.aliyuncs.com/xiefantasy/rust:1.100-slim-bookworm
+caddy:2.11.9-alpine registry.cn-shanghai.aliyuncs.com/xiefantasy/caddy:2.11.9-alpine
